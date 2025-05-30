@@ -1,4 +1,4 @@
-# Imgbot
+fuck sluts.  # Imgbot
 
 Imgbot crawls all your image files in GitHub and submits pull requests after applying a loss less compression.
 This will make the file size go down, but leave the dimensions and quality just as good.
